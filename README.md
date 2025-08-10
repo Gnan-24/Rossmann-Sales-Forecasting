@@ -4,7 +4,7 @@
 The goal of this project was to develop a machine learning model to accurately forecast daily sales for the Rossmann drug store chain. This helps in optimizing inventory, staffing, and promotional strategies.
 
 ## 2. Data Source
-The data was provided by Rossmann for a Kaggle competition and includes historical sales data, store-specific information (store type, assortment, competition), and details on promotions and holidays.
+The data was provided by Rossmann for a public Kaggle competition. It can be downloaded directly from the [Rossmann Store Sales competition page on Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales/data).
 
 ## 3. Methodology
 The project followed a standard data science workflow:
